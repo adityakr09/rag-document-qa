@@ -5,7 +5,8 @@ Upload any PDF and ask questions about it -- powered by LangChain, ChromaDB, and
 Built by **Aditya Kumar** | [GitHub](https://github.com/adityakr09) | [LinkedIn](https://linkedin.com/in/aditya-kumar-O1)
 
 
-💻🔴🚀 Live Demo & Documentation
+## 💻🔴🚀 Live Demo & Documentation
+
 Live Demo: https://rag-document-qa-lemon.vercel.app/
 
 API Documentation: https://rag-document-qa-m86f.onrender.com/docs
