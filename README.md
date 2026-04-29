@@ -1,8 +1,13 @@
 # 📄 RAG Document Q&A API
 
-Upload any PDF and ask questions about it — powered by LangChain, ChromaDB, and Groq Llama 3.
+Upload any PDF and ask questions about it -- powered by LangChain, ChromaDB, and Groq Llama 3.
 
 Built by **Aditya Kumar** | [GitHub](https://github.com/adityakr09) | [LinkedIn](https://linkedin.com/in/aditya-kumar-O1)
+
+## 💻🔴 Live Link
+
+---
+
 
 ## 🏗️ Architecture
 
