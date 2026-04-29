@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# ChromaDB
+chroma_db/
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
