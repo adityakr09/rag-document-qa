@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-f97316?style=for-the-badge)](https://rag-document-qa-lemon.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_App-f97316?style=for-the-badge)](https://rag-document-qa-lemon.vercel.app/)
 [![API Docs](https://img.shields.io/badge/📄_API_Docs-Swagger_UI-ec4899?style=for-the-badge)](https://rag-document-qa-m86f.onrender.com/docs)
 [![GitHub](https://img.shields.io/badge/GitHub-adityakr09-181717?style=for-the-badge&logo=github)](https://github.com/adityakr09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-kumar-O1)
