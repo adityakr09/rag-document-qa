@@ -1,0 +1,19 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f97316"/>
+      <stop offset="50%" style="stop-color:#ec4899"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="220" fill="#0d1117"/>
+  <!-- Wave shape -->
+  <path d="M0,160 C150,100 300,200 450,140 C600,80 750,180 900,120 L900,220 L0,220 Z" fill="url(#grad)" opacity="0.85"/>
+  <path d="M0,180 C200,130 400,200 600,155 C750,120 850,170 900,150 L900,220 L0,220 Z" fill="url(#grad)" opacity="0.5"/>
+  <!-- Title -->
+  <text x="450" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="bold" fill="white" text-anchor="middle">📄 RAG Document Q&amp;A API</text>
+  <!-- Subtitle -->
+  <text x="450" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#ffffffcc" text-anchor="middle">Upload any PDF — Ask anything about it</text>
+  <text x="450" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff88" text-anchor="middle">Powered by LangChain · ChromaDB · Groq Llama 3.3</text>
+</svg>
