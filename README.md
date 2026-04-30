@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:8b5cf6&height=220&section=header&text=RAG%20Document%20Q%26A&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Upload%20any%20PDF%20%E2%80%94%20Ask%20anything%20about%20it&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# 📄 RAG Document Q&A API
+
+### *Upload any PDF — Ask anything about it*
+
+*Powered by LangChain · ChromaDB · Groq Llama 3.3*
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-rag--document--qa.vercel.app-f97316?style=for-the-badge)](https://rag-document-qa-lemon.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-f97316?style=for-the-badge)](https://rag-document-qa-lemon.vercel.app/)
 [![API Docs](https://img.shields.io/badge/📄_API_Docs-Swagger_UI-ec4899?style=for-the-badge)](https://rag-document-qa-m86f.onrender.com/docs)
 [![GitHub](https://img.shields.io/badge/GitHub-adityakr09-181717?style=for-the-badge&logo=github)](https://github.com/adityakr09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Kumar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-kumar-O1)
@@ -194,8 +198,8 @@ With RAG     →  LLM reads YOUR document context  →  Accurate answers ✅
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:ec4899,100:f97316&height=120&section=footer" width="100%"/>
-
 **Made with ❤️ by [Aditya Kumar](https://github.com/adityakr09)**
+
+[![GitHub followers](https://img.shields.io/github/followers/adityakr09?style=social)](https://github.com/adityakr09)
 
 </div>
