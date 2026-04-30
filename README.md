@@ -1,6 +1,7 @@
 <div align="center">
 
-![title](https://img.shields.io/badge/📄__RAG_Document_Q%26A_API__📄-f97316?style=for-the-badge&logoColor=white&labelColor=f97316&color=f97316)
+<img src="./header.svg" width="100%"/>
+
 ![space](https://img.shields.io/badge/Upload_any_PDF_and_Ask_anything_about_it-ec4899?style=for-the-badge&labelColor=ec4899&color=ec4899)
 ![space2](https://img.shields.io/badge/LangChain_·_ChromaDB_·_Groq_Llama_3.3_·_FastAPI-8b5cf6?style=for-the-badge&labelColor=8b5cf6&color=8b5cf6)
 
